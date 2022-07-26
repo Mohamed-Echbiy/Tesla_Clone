@@ -53,8 +53,13 @@ const Warp = styled.div`
 `;
 const ItemText = styled.div`
   padding-top: 15vh;
+  text-align: center;
+  p {
+    text-align: center;
+  }
   h1 {
     margin-bottom: 15px;
+    text-align: center;
   }
 `;
 const ButtonWarpper = styled.div`
