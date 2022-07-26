@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Model S",
+    "title": "Model S",
+    "description": "Order Online for Touchless Delivery",
+    "image": "model-s.jpg",
+    "range": "390",
+    "time": "1.99",
+    "topSpeed": "200",
+    "peakPower": "1,020",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Model 3",
+    "title": "Model 3",
+    "description": "Order Online for Touchless Delivery",
+    "image": "model-3.jpg",
+    "range": "400",
+    "time": "2.99",
+    "topSpeed": "180",
+    "peakPower": "900",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Model X",
+    "title": "Model X",
+    "description": "Order Online for Touchless Delivery",
+    "image": "model-x.jpg",
+    "range": "350",
+    "time": "1.55",
+    "topSpeed": "150",
+    "peakPower": "1,130",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Model Y",
+    "title": "Model Y",
+    "description": "Order Online for Touchless Delivery",
+    "image": "model-y.jpg",
+    "range": "410",
+    "time": "2.05",
+    "topSpeed": "190",
+    "peakPower": "1,040",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Solar Panels",
+    "title": "Lowest Cost Solar Panels in America",
+    "description": "Money-back quaranted",
+    "image": "solar-panel.jpg",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Solar Roof",
+    "title": "Solar for New Roofs",
+    "description": "Solar Roof costs less than a new Roof plus solar panles",
+    "image": "solar-roof.jpg",
+    "leftBtnText": "order now",
+    "rightBtnText": "Existing Invertory"
+  },
+  {
+    "id": "Accessories",
+    "title": "Accessories",
+    "description": "",
+    "image": "accessories.jpg",
+    "leftBtnText": "Shop now"
+  }
+]
